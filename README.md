@@ -100,12 +100,6 @@ An interactive browser-based space simulation built with JavaScript and Three.js
 - Repository: https://github.com/nikolairangl/Prometheus-
 - Focus: real-time interaction, 3D rendering, browser deployment, simulation thinking
 
-### Eagle Eye
-
-A next-generation infrastructure operations platform concept for large-scale compute environments.
-
-The goal: combine monitoring, diagnostics, inventory management, automation, analytics, and operational intelligence into one command layer for technical operations.
-
 ## Standards
 
 I measure software by what it eliminates:
