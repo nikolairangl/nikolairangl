@@ -7,9 +7,11 @@
 <p>I am building toward foundational systems for the next century: tools that make complex operations easier to understand, easier to run, and harder to break.</p>
 
 <p>
-  <a href="https://nikolairangl.github.io/Prometheus-/">Prometheus Live Demo</a>
+  <a href="https://phase-balance-calculator.netlify.app/">Phase Balance Calculator</a>
   |
-  <a href="https://github.com/nikolairangl/Prometheus-">Prometheus Repository</a>
+  <a href="https://atlas-foresight-data.netlify.app/">Atlas</a>
+  |
+  <a href="https://nikolairangl.github.io/Prometheus-/">Prometheus</a>
   |
   <a href="https://github.com/nikolairangl">GitHub Profile</a>
 </p>
@@ -91,9 +93,23 @@ I build because software can turn operational pain into repeatable systems.
 
 ## Public Work
 
-My public repositories today are focused builds and demos. They are not the final destination. They are proof of direction: design, execution, iteration, and shipping.
+The work below is a mix of public repositories and deployed tools. Some of these I run privately and link here as live demos rather than open source, so the software is usable without the build being exposed.
 
 The trajectory is production-grade systems for infrastructure, automation, monitoring, and AI operations.
+
+### Phase Balance Calculator
+
+A field tool for three-phase power planning in high-density compute sites. It balances electrical load across rack slots and PDU configurations so a deployment does not go in unbalanced and get found later as a heat or capacity problem.
+
+- Live demo: https://phase-balance-calculator.netlify.app/
+- Focus: power distribution, rack layout, deployment planning, operator workflow
+
+### Atlas
+
+An interactive Earth visualization that turns open environmental and infrastructure data into regional health, risk, and foresight views, with a historical timeline.
+
+- Live demo: https://atlas-foresight-data.netlify.app/
+- Focus: geospatial data, visualization, turning raw signals into decision support
 
 ### Prometheus
 
